@@ -1,0 +1,8 @@
+.vscode
+task64/bin
+task64/obj
+task66/bin
+task66/obj
+task68/bin
+task68/obj
+*.csproj
